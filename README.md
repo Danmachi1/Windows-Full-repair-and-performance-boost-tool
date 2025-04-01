@@ -10,7 +10,7 @@
 		
   This script is designed to clean up un-needed cache, cookies and other temporary files from the computer then perform a bunch of repair commands. 
   
-  The v2 version edits and disables some windows styling features from the settings to boost performance
+  The v2 version edits and disables some windows styling features from the settings to boost performance, and enables performance mode as well as gaming mode, it also raises the page file system for bigger memory
   
 Explanation of Functions
 
