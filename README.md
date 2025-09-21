@@ -54,3 +54,7 @@ Explanation of Functions
 	Housecleaning; Reporting on script results.
 	ScriptEnding; Removing script files and stop logging.
 	WorkstationRestart; Prompts for Laterr and restart options.
+
+license :
+
+MIT license
